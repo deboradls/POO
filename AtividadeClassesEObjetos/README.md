@@ -18,3 +18,5 @@ Instância é o termo usado para se referir a um objeto específico que foi cria
 ## 2. Diagrama de classes
 ![Diagrama UML](questao2_ClassesEObjetos.PNG)
 
+## 3. Implementação das classes
+[Código implementado](https://github.com/deboradls/POO/blob/main/AtividadeClassesEObjetos/AtividadeClassesEObjetos.java)
