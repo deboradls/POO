@@ -1,2 +1,2 @@
 # POO
-Programação Orientada a Objeto
+Este repositório tem como objetivo armazenar as listas e atividades da disciplina de Programação Orientada a Objetos (POO), ministrada pelo professor Igor Rafael Silva Valente, no curso de Bacharelado em Ciência da Computação do IFCE de Maracanaú, durante o semestre 2024.2.
