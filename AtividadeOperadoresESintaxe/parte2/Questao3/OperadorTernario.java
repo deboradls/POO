@@ -5,7 +5,5 @@ class OperadorTernario{
 
         y = (x%2==0) ? x/2 : 3*x + 1;
         System.out.println( "Y: " + y );
-
-
     }
 }
